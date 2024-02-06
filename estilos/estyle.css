@@ -34,8 +34,9 @@ section#telefone{
 section#redes-sociais{
     /*text-align: right;*/
     position: absolute;
+    top: 10%;
     right: 50%;
-    left: 82%;
+    left: 85%;
 }
 section#redes-sociais img{
     width: 40px;
