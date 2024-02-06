@@ -17,8 +17,7 @@ body{
 main{
     position: relative;
     height: 100vh;    
-    
-}
+    }
 section#telefone{
     /*estas linhas fazem o posicionamento responsivo  junto com a position relative do main container de fora*/
     position: absolute;
@@ -31,4 +30,11 @@ section#telefone{
    
     background: url('../imagens/frame-iphone.png') no-repeat;
 
+}
+iframe#tela{
+    position: relative;
+    top: 80px;
+    left: 22px;
+    width: 267px;
+    height: 470px;
 }
