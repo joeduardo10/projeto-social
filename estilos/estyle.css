@@ -26,13 +26,16 @@ section#telefone{
     transform: translate(-52%, -50%);
 
     height:627px;
-    width: 311px;
+    width: 310px;
    
     background: url('../imagens/frame-iphone.png') no-repeat;
 
 }
 section#redes-sociais{
-    text-align: right;
+    /*text-align: right;*/
+    position: absolute;
+    right: 50%;
+    left: 71%;
 }
 section#redes-sociais img{
     width: 50px;
