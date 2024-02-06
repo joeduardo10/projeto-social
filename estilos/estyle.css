@@ -21,7 +21,7 @@ main{
 section#telefone{
     /*estas linhas fazem o posicionamento responsivo  junto com a position relative do main container de fora*/
     position: absolute;
-    top: 50%;
+    top: 45%;
     left: 45%;
     transform: translate(-50%, -50%);
 
